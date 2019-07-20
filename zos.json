@@ -1,0 +1,15 @@
+{
+  "zosversion": "2.2",
+  "contracts": {
+    "Counter": "Counter"
+  },
+  "dependencies": {},
+  "name": "0x-dev-tools-zos-truffle-example",
+  "version": "1.0.1",
+  "compiler": {
+    "manager": "truffle",
+    "compilerSettings": {
+      "optimizer": {}
+    }
+  }
+}
